@@ -3045,7 +3045,7 @@ input, select, textarea {
 			}*/
 
 		#header .inner {
-    		  max-width: 800px;
+    		  max-width: 1100px;
               margin: 0 auto;
               text-align: center;
 			-moz-transition: -moz-transform 1.5s ease, opacity 2s ease;
