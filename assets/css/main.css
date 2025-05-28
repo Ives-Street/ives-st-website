@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+emphatic {
+  font-size: 1.75rem;
+}
+
 /* Basic */
 
 	html {
@@ -2910,6 +2914,8 @@ input, select, textarea {
 				color: #ffffff;
 			}
 
+
+
 /* Header */
 
 	#header {
@@ -2926,7 +2932,7 @@ input, select, textarea {
 	}
 	
 	.logo {
-  max-width: 100%;
+  max-width: 60%;
   height: auto;
   margin-bottom: 1em;
 }
@@ -3115,6 +3121,7 @@ input, select, textarea {
 	body.is-preload #header:after {
 		opacity: 1;
 	}
+	
 
 /* Footer */
 
