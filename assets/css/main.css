@@ -83,6 +83,10 @@ input, select, textarea {
 		margin: 0 auto;
 	}
 
+	#two p {
+		text-align: justify;
+	}
+
 
 /* Basic */
 
